@@ -25,3 +25,5 @@ Run the following commands in the root directory of the project:
 4-terraform apply (to apply the changes)
 
 5-terraform destroy (to destroy the infrastructure)
+![system_architecture](https://github.com/user-attachments/assets/fb8979a0-3363-49cf-9e1f-51927c7033a6)
+
